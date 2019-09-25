@@ -1,0 +1,6278 @@
+[
+  {
+    "id": "mariokartdoubledash",
+    "name": "Double Dash",
+    "stats": [
+      {
+        "id": "karts",
+        "name": "Karts",
+        "columns": [
+          {
+            "field": "Vehicle",
+            "label": "Vehicle",
+            "sortable": true
+          },
+          {
+            "field": "Top Speed",
+            "label": "Top Speed",
+            "sortable": true
+          },
+          {
+            "field": "Off-Road",
+            "label": "Off-Road",
+            "sortable": true
+          },
+          {
+            "field": "Acceleration",
+            "label": "Acceleration",
+            "sortable": true
+          },
+          {
+            "field": "Weight",
+            "label": "Weight",
+            "sortable": true
+          },
+          {
+            "field": "Mini-Turbo",
+            "label": "Mini-Turbo",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Vehicle": "Red Fire",
+            "Top Speed": 5,
+            "Off-Road": 4,
+            "Acceleration": 4,
+            "Weight": "5",
+            "Mini-Turbo": 2
+          },
+          {
+            "Vehicle": "Green Fire",
+            "Top Speed": 7,
+            "Off-Road": 3,
+            "Acceleration": 3,
+            "Weight": "4",
+            "Mini-Turbo": 2
+          },
+          {
+            "Vehicle": "Heart Coach",
+            "Top Speed": 4,
+            "Off-Road": 6,
+            "Acceleration": 6,
+            "Weight": "5",
+            "Mini-Turbo": 2
+          },
+          {
+            "Vehicle": "Bloom Coach",
+            "Top Speed": 6,
+            "Off-Road": 4,
+            "Acceleration": 5,
+            "Weight": "3",
+            "Mini-Turbo": 2
+          },
+          {
+            "Vehicle": "Turbo Yoshi",
+            "Top Speed": 4,
+            "Off-Road": 5,
+            "Acceleration": 6,
+            "Weight": "6",
+            "Mini-Turbo": 2
+          },
+          {
+            "Vehicle": "Turbo Birdo",
+            "Top Speed": 6,
+            "Off-Road": 4,
+            "Acceleration": 4,
+            "Weight": "7",
+            "Mini-Turbo": 2
+          },
+          {
+            "Vehicle": "Goo-Goo Buggy",
+            "Top Speed": 1,
+            "Off-Road": 9,
+            "Acceleration": 9,
+            "Weight": "2",
+            "Mini-Turbo": 3
+          },
+          {
+            "Vehicle": "Rattle Buggy",
+            "Top Speed": 2,
+            "Off-Road": 9,
+            "Acceleration": 8,
+            "Weight": "2",
+            "Mini-Turbo": 3
+          },
+          {
+            "Vehicle": "Toad Kart",
+            "Top Speed": 3,
+            "Off-Road": 9,
+            "Acceleration": 7,
+            "Weight": "2",
+            "Mini-Turbo": 3
+          },
+          {
+            "Vehicle": "Toadette Kart",
+            "Top Speed": 1,
+            "Off-Road": 9,
+            "Acceleration": 9,
+            "Weight": "2",
+            "Mini-Turbo": 3
+          },
+          {
+            "Vehicle": "Koopa Dasher",
+            "Top Speed": 2,
+            "Off-Road": 8,
+            "Acceleration": 8,
+            "Weight": "3",
+            "Mini-Turbo": 3
+          },
+          {
+            "Vehicle": "Para-Wing",
+            "Top Speed": 1,
+            "Off-Road": 8,
+            "Acceleration": 9,
+            "Weight": "3",
+            "Mini-Turbo": 3
+          },
+          {
+            "Vehicle": "DK Jumbo",
+            "Top Speed": 8,
+            "Off-Road": 2,
+            "Acceleration": 2,
+            "Weight": "8",
+            "Mini-Turbo": 1
+          },
+          {
+            "Vehicle": "Barrel Train",
+            "Top Speed": 8,
+            "Off-Road": 7,
+            "Acceleration": 3,
+            "Weight": "5",
+            "Mini-Turbo": 3
+          },
+          {
+            "Vehicle": "Koopa King",
+            "Top Speed": 9,
+            "Off-Road": 1,
+            "Acceleration": 1,
+            "Weight": "9",
+            "Mini-Turbo": 1
+          },
+          {
+            "Vehicle": "Bullet Blaster",
+            "Top Speed": 8,
+            "Off-Road": 1,
+            "Acceleration": 4,
+            "Weight": "1",
+            "Mini-Turbo": 3
+          },
+          {
+            "Vehicle": "Wario Car",
+            "Top Speed": 7,
+            "Off-Road": 3,
+            "Acceleration": 3,
+            "Weight": "7",
+            "Mini-Turbo": 1
+          },
+          {
+            "Vehicle": "Waluigi Racer",
+            "Top Speed": 5,
+            "Off-Road": 9,
+            "Acceleration": 5,
+            "Weight": "6",
+            "Mini-Turbo": 2
+          },
+          {
+            "Vehicle": "Piranha Pipes",
+            "Top Speed": 8,
+            "Off-Road": 7,
+            "Acceleration": 2,
+            "Weight": "9",
+            "Mini-Turbo": 1
+          },
+          {
+            "Vehicle": "Boo Pipes",
+            "Top Speed": 2,
+            "Off-Road": 9,
+            "Acceleration": 8,
+            "Weight": "9",
+            "Mini-Turbo": 1
+          },
+          {
+            "Vehicle": "Parade Kart",
+            "Top Speed": 7,
+            "Off-Road": 3,
+            "Acceleration": 4,
+            "Weight": "7",
+            "Mini-Turbo": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mariokartwii",
+    "name": "Wii",
+    "stats": [
+      {
+        "id": "karts",
+        "name": "Karts",
+        "columns": [
+          {
+            "field": "Body",
+            "label": "Body",
+            "sortable": true
+          },
+          {
+            "field": "Speed",
+            "label": "Speed",
+            "sortable": true
+          },
+          {
+            "field": "Weight",
+            "label": "Weight",
+            "sortable": true
+          },
+          {
+            "field": "Acceleration",
+            "label": "Acceleration",
+            "sortable": true
+          },
+          {
+            "field": "Handling",
+            "label": "Handling",
+            "sortable": true
+          },
+          {
+            "field": "Drift",
+            "label": "Drift",
+            "sortable": true
+          },
+          {
+            "field": "Off-Road",
+            "label": "Off-Road",
+            "sortable": true
+          },
+          {
+            "field": "Mini-Turbo",
+            "label": "Mini-Turbo",
+            "sortable": true
+          },
+          {
+            "field": "Vehicle Type",
+            "label": "Vehicle Type",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Body": "Standard Kart S",
+            "Speed": 41,
+            "Weight": 29,
+            "Acceleration": 48,
+            "Handling": 48,
+            "Drift": 51,
+            "Off-Road": 40,
+            "Mini-Turbo": 45,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Booster Seat (Baby Booster)",
+            "Speed": 27,
+            "Weight": 27,
+            "Acceleration": 56,
+            "Handling": 64,
+            "Drift": 37,
+            "Off-Road": 54,
+            "Mini-Turbo": 59,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Mini Beast (Concerto)",
+            "Speed": 55,
+            "Weight": 32,
+            "Acceleration": 29,
+            "Handling": 32,
+            "Drift": 64,
+            "Off-Road": 27,
+            "Mini-Turbo": 64,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Cheep Charger",
+            "Speed": 34,
+            "Weight": 24,
+            "Acceleration": 64,
+            "Handling": 56,
+            "Drift": 59,
+            "Off-Road": 45,
+            "Mini-Turbo": 54,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Rank 1 Star in all 50cc Retro Grand Prix Cups"
+          },
+          {
+            "Body": "Tiny Titan (Rally Romper)",
+            "Speed": 46,
+            "Weight": 35,
+            "Acceleration": 43,
+            "Handling": 43,
+            "Drift": 29,
+            "Off-Road": 64,
+            "Mini-Turbo": 40,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Unlock an Expert Staff Ghost Data record in Time Trials / Win 50 WFC races"
+          },
+          {
+            "Body": "Blue Falcon",
+            "Speed": 60,
+            "Weight": 29,
+            "Acceleration": 35,
+            "Handling": 29,
+            "Drift": 43,
+            "Off-Road": 24,
+            "Mini-Turbo": 29,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Win the Mirror Lightning Cup"
+          },
+          {
+            "Body": "Standard Bike S",
+            "Speed": 39,
+            "Weight": 21,
+            "Acceleration": 51,
+            "Handling": 51,
+            "Drift": 54,
+            "Off-Road": 43,
+            "Mini-Turbo": 48,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Bullet Bike",
+            "Speed": 53,
+            "Weight": 24,
+            "Acceleration": 32,
+            "Handling": 35,
+            "Drift": 67,
+            "Off-Road": 29,
+            "Mini-Turbo": 67,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Bit Bike (Nanobike)",
+            "Speed": 25,
+            "Weight": 18,
+            "Acceleration": 59,
+            "Handling": 67,
+            "Drift": 40,
+            "Off-Road": 56,
+            "Mini-Turbo": 62,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Quacker",
+            "Speed": 32,
+            "Weight": 17,
+            "Acceleration": 67,
+            "Handling": 60,
+            "Drift": 62,
+            "Off-Road": 48,
+            "Mini-Turbo": 57,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "Win the 150cc Star Cup"
+          },
+          {
+            "Body": "Magikruiser",
+            "Speed": 43,
+            "Weight": 24,
+            "Acceleration": 45,
+            "Handling": 45,
+            "Drift": 32,
+            "Off-Road": 67,
+            "Mini-Turbo": 43,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "Play Time Trials on 8 different courses"
+          },
+          {
+            "Body": "Jet Bubble (Bubble Bike)",
+            "Speed": 48,
+            "Weight": 27,
+            "Acceleration": 40,
+            "Handling": 40,
+            "Drift": 45,
+            "Off-Road": 35,
+            "Mini-Turbo": 37,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "Win the Mirror Leaf Cup"
+          },
+          {
+            "Body": "Standard Kart M",
+            "Speed": 46,
+            "Weight": 45,
+            "Acceleration": 40,
+            "Handling": 43,
+            "Drift": 45,
+            "Off-Road": 35,
+            "Mini-Turbo": 40,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Classic Dragster (Nostalgia 1)",
+            "Speed": 37,
+            "Weight": 43,
+            "Acceleration": 59,
+            "Handling": 54,
+            "Drift": 54,
+            "Off-Road": 40,
+            "Mini-Turbo": 51,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Wild Wing",
+            "Speed": 57,
+            "Weight": 51,
+            "Acceleration": 21,
+            "Handling": 29,
+            "Drift": 59,
+            "Off-Road": 24,
+            "Mini-Turbo": 59,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Super Blooper (Turbo Blooper)",
+            "Speed": 50,
+            "Weight": 40,
+            "Acceleration": 35,
+            "Handling": 37,
+            "Drift": 21,
+            "Off-Road": 54,
+            "Mini-Turbo": 35,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Win the 50cc Leaf Cup"
+          },
+          {
+            "Body": "Daytripper (Royal Racer)",
+            "Speed": 34,
+            "Weight": 45,
+            "Acceleration": 51,
+            "Handling": 59,
+            "Drift": 32,
+            "Off-Road": 48,
+            "Mini-Turbo": 54,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Win the 150cc Leaf Cup"
+          },
+          {
+            "Body": "Sprinter (B Dasher Mk 2)",
+            "Speed": 64,
+            "Weight": 48,
+            "Acceleration": 27,
+            "Handling": 24,
+            "Drift": 37,
+            "Off-Road": 21,
+            "Mini-Turbo": 24,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Unlock 24 Expert Staff Ghost Data Records in Time Trials / Win 3000 WFC races"
+          },
+          {
+            "Body": "Standard Bike M",
+            "Speed": 43,
+            "Weight": 37,
+            "Acceleration": 43,
+            "Handling": 45,
+            "Drift": 48,
+            "Off-Road": 37,
+            "Mini-Turbo": 43,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Mach Bike",
+            "Speed": 55,
+            "Weight": 37,
+            "Acceleration": 24,
+            "Handling": 32,
+            "Drift": 62,
+            "Off-Road": 27,
+            "Mini-Turbo": 62,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Sugarscoot (Bon Bon)",
+            "Speed": 32,
+            "Weight": 32,
+            "Acceleration": 54,
+            "Handling": 62,
+            "Drift": 35,
+            "Off-Road": 51,
+            "Mini-Turbo": 56,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Zip Zip (Rapide)",
+            "Speed": 41,
+            "Weight": 35,
+            "Acceleration": 45,
+            "Handling": 51,
+            "Drift": 29,
+            "Off-Road": 62,
+            "Mini-Turbo": 45,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Win the 100cc Lightning Cup"
+          },
+          {
+            "Body": "Sneakster (Nitrocycle)",
+            "Speed": 62,
+            "Weight": 40,
+            "Acceleration": 29,
+            "Handling": 27,
+            "Drift": 40,
+            "Off-Road": 24,
+            "Mini-Turbo": 27,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "Rank 1 Star in all 100cc Wii Grand Prix Cups"
+          },
+          {
+            "Body": "Dolphin Dasher",
+            "Speed": 48,
+            "Weight": 43,
+            "Acceleration": 37,
+            "Handling": 40,
+            "Drift": 24,
+            "Off-Road": 56,
+            "Mini-Turbo": 37,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "Win the Mirror Star Cup"
+          },
+          {
+            "Body": "Standard Kart L",
+            "Speed": 48,
+            "Weight": 59,
+            "Acceleration": 37,
+            "Handling": 40,
+            "Drift": 40,
+            "Off-Road": 35,
+            "Mini-Turbo": 35,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Offroader",
+            "Speed": 39,
+            "Weight": 64,
+            "Acceleration": 48,
+            "Handling": 54,
+            "Drift": 18,
+            "Off-Road": 43,
+            "Mini-Turbo": 45,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Flame Flyer",
+            "Speed": 62,
+            "Weight": 59,
+            "Acceleration": 16,
+            "Handling": 21,
+            "Drift": 48,
+            "Off-Road": 18,
+            "Mini-Turbo": 48,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Piranha Prowler",
+            "Speed": 55,
+            "Weight": 67,
+            "Acceleration": 29,
+            "Handling": 35,
+            "Drift": 35,
+            "Off-Road": 29,
+            "Mini-Turbo": 27,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Win the 50cc Special Cup"
+          },
+          {
+            "Body": "Jetsetter (Aero Glider)",
+            "Speed": 69,
+            "Weight": 56,
+            "Acceleration": 21,
+            "Handling": 17,
+            "Drift": 27,
+            "Off-Road": 16,
+            "Mini-Turbo": 16,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Rank 1 Star in all 150cc Retro Grand Prix Cups"
+          },
+          {
+            "Body": "Honeycoupe (Dragonetti)",
+            "Speed": 53,
+            "Weight": 62,
+            "Acceleration": 27,
+            "Handling": 29,
+            "Drift": 56,
+            "Off-Road": 24,
+            "Mini-Turbo": 56,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Win the 150cc Lightning Cup"
+          },
+          {
+            "Body": "Standard Bike L",
+            "Speed": 46,
+            "Weight": 54,
+            "Acceleration": 40,
+            "Handling": 43,
+            "Drift": 43,
+            "Off-Road": 37,
+            "Mini-Turbo": 37,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Flame Runner (Bowser Bike)",
+            "Speed": 60,
+            "Weight": 54,
+            "Acceleration": 18,
+            "Handling": 24,
+            "Drift": 51,
+            "Off-Road": 21,
+            "Mini-Turbo": 51,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Wario Bike",
+            "Speed": 37,
+            "Weight": 59,
+            "Acceleration": 51,
+            "Handling": 56,
+            "Drift": 21,
+            "Off-Road": 45,
+            "Mini-Turbo": 48,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "-"
+          },
+          {
+            "Body": "Shooting Star (Twinkle Star)",
+            "Speed": 50,
+            "Weight": 48,
+            "Acceleration": 29,
+            "Handling": 32,
+            "Drift": 59,
+            "Off-Road": 27,
+            "Mini-Turbo": 59,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Win the 100cc Star Cup"
+          },
+          {
+            "Body": "Spear (Torpedo)",
+            "Speed": 67,
+            "Weight": 56,
+            "Acceleration": 24,
+            "Handling": 18,
+            "Drift": 29,
+            "Off-Road": 18,
+            "Mini-Turbo": 18,
+            "Vehicle Type": "Hang-on",
+            "Unlock criteria": "Unlock 12 Expert Staff Ghost Data records in Time Trials"
+          },
+          {
+            "Body": "Phantom",
+            "Speed": 43,
+            "Weight": 51,
+            "Acceleration": 43,
+            "Handling": 48,
+            "Drift": 17,
+            "Off-Road": 56,
+            "Mini-Turbo": 40,
+            "Vehicle Type": "Drift",
+            "Unlock criteria": "Win the Mirror Special Cup"
+          }
+         ]
+      }
+    ]
+  },
+  {
+    "id": "mariokart7",
+    "name": "7",
+    "stats": [
+      {
+        "id": "characters",
+        "name": "Characters",
+        "columns": [
+          {
+            "field": "Driver",
+            "label": "Driver",
+            "sortable": true
+          },
+          {
+            "field": "Weight",
+            "label": "Weight",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Land",
+            "label": "Speed (land)",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Sea",
+            "label": "Speed (sea)",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Air",
+            "label": "Speed (air)",
+            "sortable": true
+          },
+          {
+            "field": "Accel",
+            "label": "Acceleration",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Land",
+            "label": "Turn (land)",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Sea",
+            "label": "Turn (sea)",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Air",
+            "label": "Turn (air)",
+            "sortable": true
+          },
+          {
+            "field": "OffRoad",
+            "label": "OffRoad",
+            "sortable": true
+          },
+          {
+            "field": "MiniTurbo",
+            "label": "MiniTurbo",
+            "sortable": true
+          },
+          {
+            "field": "TireFeeling",
+            "label": "Tire Feeling",
+            "sortable": true
+          },
+          {
+            "field": "DriftStart",
+            "label": "Drift Start",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Driver": "Bowser",
+            "Weight": 8,
+            "Speed_Land": 4,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 0,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 0,
+            "MiniTurbo": 1,
+            "TireFeeling": 1,
+            "DriftStart": 0
+          },
+          {
+            "Driver": "Daisy",
+            "Weight": 2,
+            "Speed_Land": 1,
+            "Speed_Sea": 2,
+            "Speed_Air": 0,
+            "Accel": 6,
+            "Turn_Land": 2,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 1,
+            "DriftStart": 4
+          },
+          {
+            "Driver": "Donkey",
+            "Weight": 6,
+            "Speed_Land": 3,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 2,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 1,
+            "MiniTurbo": 1,
+            "TireFeeling": 1,
+            "DriftStart": 0
+          },
+          {
+            "Driver": "HoneyQueen",
+            "Weight": 8,
+            "Speed_Land": 4,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 0,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 0,
+            "MiniTurbo": 1,
+            "TireFeeling": 1,
+            "DriftStart": 0
+          },
+          {
+            "Driver": "KoopaTroopa",
+            "Weight": 0,
+            "Speed_Land": 0,
+            "Speed_Sea": 2,
+            "Speed_Air": 0,
+            "Accel": 8,
+            "Turn_Land": 2,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 2,
+            "MiniTurbo": 3,
+            "TireFeeling": 1,
+            "DriftStart": 8
+          },
+          {
+            "Driver": "Lakitu",
+            "Weight": 0,
+            "Speed_Land": 0,
+            "Speed_Sea": 2,
+            "Speed_Air": 0,
+            "Accel": 8,
+            "Turn_Land": 2,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 2,
+            "MiniTurbo": 3,
+            "TireFeeling": 1,
+            "DriftStart": 8
+          },
+          {
+            "Driver": "Luigi",
+            "Weight": 4,
+            "Speed_Land": 2,
+            "Speed_Sea": 1,
+            "Speed_Air": 0,
+            "Accel": 4,
+            "Turn_Land": 1,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 1,
+            "DriftStart": 4
+          },
+          {
+            "Driver": "Mario",
+            "Weight": 4,
+            "Speed_Land": 2,
+            "Speed_Sea": 1,
+            "Speed_Air": 0,
+            "Accel": 4,
+            "Turn_Land": 1,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 1,
+            "DriftStart": 4
+          },
+          {
+            "Driver": "Metal",
+            "Weight": 8,
+            "Speed_Land": 4,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 0,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 0,
+            "MiniTurbo": 1,
+            "TireFeeling": 1,
+            "DriftStart": 0
+          },
+          {
+            "Driver": "Mim",
+            "Weight": 4,
+            "Speed_Land": 2,
+            "Speed_Sea": 1,
+            "Speed_Air": 0,
+            "Accel": 4,
+            "Turn_Land": 1,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 1,
+            "DriftStart": 4
+          },
+          {
+            "Driver": "Mif",
+            "Weight": 4,
+            "Speed_Land": 2,
+            "Speed_Sea": 1,
+            "Speed_Air": 0,
+            "Accel": 4,
+            "Turn_Land": 1,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 1,
+            "DriftStart": 4
+          },
+          {
+            "Driver": "Peach",
+            "Weight": 2,
+            "Speed_Land": 1,
+            "Speed_Sea": 2,
+            "Speed_Air": 0,
+            "Accel": 6,
+            "Turn_Land": 2,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 1,
+            "DriftStart": 4
+          },
+          {
+            "Driver": "Rosalina",
+            "Weight": 6,
+            "Speed_Land": 3,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 2,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 1,
+            "MiniTurbo": 1,
+            "TireFeeling": 1,
+            "DriftStart": 0
+          },
+          {
+            "Driver": "ShyGuy",
+            "Weight": 0,
+            "Speed_Land": 0,
+            "Speed_Sea": 2,
+            "Speed_Air": 0,
+            "Accel": 8,
+            "Turn_Land": 2,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 2,
+            "MiniTurbo": 3,
+            "TireFeeling": 1,
+            "DriftStart": 8
+          },
+          {
+            "Driver": "Toad",
+            "Weight": 0,
+            "Speed_Land": 0,
+            "Speed_Sea": 2,
+            "Speed_Air": 0,
+            "Accel": 8,
+            "Turn_Land": 2,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 2,
+            "MiniTurbo": 3,
+            "TireFeeling": 1,
+            "DriftStart": 8
+          },
+          {
+            "Driver": "Wario",
+            "Weight": 8,
+            "Speed_Land": 4,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 0,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 0,
+            "MiniTurbo": 1,
+            "TireFeeling": 1,
+            "DriftStart": 0
+          },
+          {
+            "Driver": "Wiggler",
+            "Weight": 6,
+            "Speed_Land": 3,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 2,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 1,
+            "MiniTurbo": 1,
+            "TireFeeling": 1,
+            "DriftStart": 0
+          },
+          {
+            "Driver": "Yoshi",
+            "Weight": 2,
+            "Speed_Land": 1,
+            "Speed_Sea": 2,
+            "Speed_Air": 0,
+            "Accel": 6,
+            "Turn_Land": 2,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 1,
+            "DriftStart": 4
+          }
+         ]
+      },
+      {
+        "id": "karts",
+        "name": "Karts",
+        "columns": [
+          {
+            "field": "Body",
+            "label": "Body",
+            "sortable": true
+          },
+          {
+            "field": "Weight",
+            "label": "Weight",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Land",
+            "label": "Speed (land)",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Sea",
+            "label": "Speed (sea)",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Air",
+            "label": "Speed (air)",
+            "sortable": true
+          },
+          {
+            "field": "Accel",
+            "label": "Acceleration",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Land",
+            "label": "Turn (land)",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Sea",
+            "label": "Turn (sea)",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Air",
+            "label": "Turn (air)",
+            "sortable": true
+          },
+          {
+            "field": "OffRoad",
+            "label": "OffRoad",
+            "sortable": true
+          },
+          {
+            "field": "MiniTurbo",
+            "label": "MiniTurbo",
+            "sortable": true
+          },
+          {
+            "field": "TireFeeling",
+            "label": "Tire Feeling",
+            "sortable": true
+          },
+          {
+            "field": "DriftStart",
+            "label": "Drift Start",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Body": "Std",
+            "Weight": 2,
+            "Speed_Land": 6,
+            "Speed_Sea": 4,
+            "Speed_Air": 2,
+            "Accel": 3,
+            "Turn_Land": 3,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 2,
+            "MiniTurbo": 2,
+            "TireFeeling": 0,
+            "DriftStart": 2
+          },
+          {
+            "Body": "Rally",
+            "Weight": 3,
+            "Speed_Land": 7,
+            "Speed_Sea": 2,
+            "Speed_Air": 1,
+            "Accel": 1,
+            "Turn_Land": 2,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 3,
+            "MiniTurbo": 0,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          },
+          {
+            "Body": "Ribbon",
+            "Weight": 1,
+            "Speed_Land": 4,
+            "Speed_Sea": 6,
+            "Speed_Air": 4,
+            "Accel": 5,
+            "Turn_Land": 5,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 1,
+            "MiniTurbo": 4,
+            "TireFeeling": 0,
+            "DriftStart": 3
+          },
+          {
+            "Body": "EggOne",
+            "Weight": 1,
+            "Speed_Land": 5,
+            "Speed_Sea": 10,
+            "Speed_Air": 4,
+            "Accel": 5,
+            "Turn_Land": 3,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 2,
+            "MiniTurbo": 4,
+            "TireFeeling": 0,
+            "DriftStart": 3
+          },
+          {
+            "Body": "B_Dash",
+            "Weight": 2,
+            "Speed_Land": 8,
+            "Speed_Sea": 2,
+            "Speed_Air": 2,
+            "Accel": 1,
+            "Turn_Land": 4,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 0,
+            "DriftStart": 2
+          },
+          {
+            "Body": "Cucumber",
+            "Weight": 2,
+            "Speed_Land": 8,
+            "Speed_Sea": 2,
+            "Speed_Air": 1,
+            "Accel": 2,
+            "Turn_Land": 2,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 2,
+            "MiniTurbo": 0,
+            "TireFeeling": 0,
+            "DriftStart": 2
+          },
+          {
+            "Body": "KoopaClown",
+            "Weight": 2,
+            "Speed_Land": 6,
+            "Speed_Sea": 4,
+            "Speed_Air": 2,
+            "Accel": 2,
+            "Turn_Land": 5,
+            "Turn_Sea": 2,
+            "Turn_Air": 2,
+            "OffRoad": 1,
+            "MiniTurbo": 8,
+            "TireFeeling": 0,
+            "DriftStart": 2
+          },
+          {
+            "Body": "Boat",
+            "Weight": 3,
+            "Speed_Land": 4,
+            "Speed_Sea": 10,
+            "Speed_Air": 1,
+            "Accel": 3,
+            "Turn_Land": 3,
+            "Turn_Sea": 3,
+            "Turn_Air": 1,
+            "OffRoad": 3,
+            "MiniTurbo": 0,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          },
+          {
+            "Body": "Honey",
+            "Weight": 1,
+            "Speed_Land": 6,
+            "Speed_Sea": 4,
+            "Speed_Air": 4,
+            "Accel": 5,
+            "Turn_Land": 1,
+            "Turn_Sea": 1,
+            "Turn_Air": 2,
+            "OffRoad": 3,
+            "MiniTurbo": 8,
+            "TireFeeling": 0,
+            "DriftStart": 3
+          },
+          {
+            "Body": "Saboten",
+            "Weight": 2,
+            "Speed_Land": 5,
+            "Speed_Sea": 6,
+            "Speed_Air": 1,
+            "Accel": 2,
+            "Turn_Land": 4,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 3,
+            "MiniTurbo": 0,
+            "TireFeeling": 0,
+            "DriftStart": 2
+          },
+          {
+            "Body": "Gang",
+            "Weight": 3,
+            "Speed_Land": 8,
+            "Speed_Sea": 2,
+            "Speed_Air": 1,
+            "Accel": 2,
+            "Turn_Land": 1,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 2,
+            "MiniTurbo": 2,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          },
+          {
+            "Body": "PipeFrame",
+            "Weight": 1,
+            "Speed_Land": 5,
+            "Speed_Sea": 8,
+            "Speed_Air": 4,
+            "Accel": 4,
+            "Turn_Land": 3,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 3,
+            "MiniTurbo": 4,
+            "TireFeeling": 0,
+            "DriftStart": 3
+          },
+          {
+            "Body": "Train",
+            "Weight": 3,
+            "Speed_Land": 7,
+            "Speed_Sea": 1,
+            "Speed_Air": 1,
+            "Accel": 3,
+            "Turn_Land": 1,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 2,
+            "MiniTurbo": 8,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          },
+          {
+            "Body": "Cloud",
+            "Weight": 1,
+            "Speed_Land": 4,
+            "Speed_Sea": 8,
+            "Speed_Air": 4,
+            "Accel": 4,
+            "Turn_Land": 5,
+            "Turn_Sea": 3,
+            "Turn_Air": 2,
+            "OffRoad": 2,
+            "MiniTurbo": 4,
+            "TireFeeling": 0,
+            "DriftStart": 3
+          },
+          {
+            "Body": "Race",
+            "Weight": 3,
+            "Speed_Land": 8,
+            "Speed_Sea": 4,
+            "Speed_Air": 1,
+            "Accel": 1,
+            "Turn_Land": 2,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 2,
+            "MiniTurbo": 0,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          },
+          {
+            "Body": "Jet",
+            "Weight": 1,
+            "Speed_Land": 7,
+            "Speed_Sea": 2,
+            "Speed_Air": 4,
+            "Accel": 4,
+            "Turn_Land": 3,
+            "Turn_Sea": 1,
+            "Turn_Air": 2,
+            "OffRoad": 1,
+            "MiniTurbo": 4,
+            "TireFeeling": 0,
+            "DriftStart": 3
+          },
+          {
+            "Body": "Gold",
+            "Weight": 3,
+            "Speed_Land": 7,
+            "Speed_Sea": 4,
+            "Speed_Air": 1,
+            "Accel": 2,
+            "Turn_Land": 3,
+            "Turn_Sea": 1,
+            "Turn_Air": 1,
+            "OffRoad": 1,
+            "MiniTurbo": 2,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          }
+         ]
+      },
+      {
+        "id": "tires",
+        "name": "Tires",
+        "columns": [
+          {
+            "field": "Tire",
+            "label": "Tire",
+            "sortable": true
+          },
+          {
+            "field": "Weight",
+            "label": "Weight",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Land",
+            "label": "Speed (land)",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Sea",
+            "label": "Speed (sea)",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Air",
+            "label": "Speed (air)",
+            "sortable": true
+          },
+          {
+            "field": "Accel",
+            "label": "Acceleration",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Land",
+            "label": "Turn (land)",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Sea",
+            "label": "Turn (sea)",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Air",
+            "label": "Turn (air)",
+            "sortable": true
+          },
+          {
+            "field": "OffRoad",
+            "label": "OffRoad",
+            "sortable": true
+          },
+          {
+            "field": "MiniTurbo",
+            "label": "MiniTurbo",
+            "sortable": true
+          },
+          {
+            "field": "TireFeeling",
+            "label": "Tire Feeling",
+            "sortable": true
+          },
+          {
+            "field": "DriftStart",
+            "label": "Drift Start",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Tire": "Std",
+            "Weight": 4,
+            "Speed_Land": 4,
+            "Speed_Sea": 4,
+            "Speed_Air": 0,
+            "Accel": 3,
+            "Turn_Land": 5,
+            "Turn_Sea": 5,
+            "Turn_Air": 4,
+            "OffRoad": 10,
+            "MiniTurbo": 4,
+            "TireFeeling": 4,
+            "DriftStart": 4
+          },
+          {
+            "Tire": "Big",
+            "Weight": 8,
+            "Speed_Land": 7,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 0,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 15,
+            "MiniTurbo": 4,
+            "TireFeeling": 0,
+            "DriftStart": 4
+          },
+          {
+            "Tire": "Small",
+            "Weight": 0,
+            "Speed_Land": 1,
+            "Speed_Sea": 8,
+            "Speed_Air": 4,
+            "Accel": 6,
+            "Turn_Land": 13,
+            "Turn_Sea": 10,
+            "Turn_Air": 8,
+            "OffRoad": 5,
+            "MiniTurbo": 8,
+            "TireFeeling": 8,
+            "DriftStart": 0
+          },
+          {
+            "Tire": "Race",
+            "Weight": 5,
+            "Speed_Land": 8,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 2,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 4,
+            "OffRoad": 0,
+            "MiniTurbo": 4,
+            "TireFeeling": 4,
+            "DriftStart": 8
+          },
+          {
+            "Tire": "Classic",
+            "Weight": 3,
+            "Speed_Land": 3,
+            "Speed_Sea": 4,
+            "Speed_Air": 0,
+            "Accel": 4,
+            "Turn_Land": 10,
+            "Turn_Sea": 10,
+            "Turn_Air": 4,
+            "OffRoad": 5,
+            "MiniTurbo": 0,
+            "TireFeeling": 8,
+            "DriftStart": 8
+          },
+          {
+            "Tire": "Sponge",
+            "Weight": 1,
+            "Speed_Land": 3,
+            "Speed_Sea": 0,
+            "Speed_Air": 4,
+            "Accel": 5,
+            "Turn_Land": 5,
+            "Turn_Sea": 0,
+            "Turn_Air": 8,
+            "OffRoad": 10,
+            "MiniTurbo": 4,
+            "TireFeeling": 4,
+            "DriftStart": 8
+          },
+          {
+            "Tire": "Gold",
+            "Weight": 6,
+            "Speed_Land": 8,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 1,
+            "Turn_Land": 0,
+            "Turn_Sea": 5,
+            "Turn_Air": 0,
+            "OffRoad": 0,
+            "MiniTurbo": 4,
+            "TireFeeling": 4,
+            "DriftStart": 0
+          },
+          {
+            "Tire": "Wood",
+            "Weight": 2,
+            "Speed_Land": 2,
+            "Speed_Sea": 8,
+            "Speed_Air": 4,
+            "Accel": 5,
+            "Turn_Land": 10,
+            "Turn_Sea": 15,
+            "Turn_Air": 8,
+            "OffRoad": 10,
+            "MiniTurbo": 0,
+            "TireFeeling": 8,
+            "DriftStart": 8
+          },
+          {
+            "Tire": "BigRed",
+            "Weight": 7,
+            "Speed_Land": 7,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 1,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 15,
+            "MiniTurbo": 5,
+            "TireFeeling": 0,
+            "DriftStart": 0
+          },
+          {
+            "Tire": "Mush",
+            "Weight": 2,
+            "Speed_Land": 5,
+            "Speed_Sea": 4,
+            "Speed_Air": 0,
+            "Accel": 2,
+            "Turn_Land": 10,
+            "Turn_Sea": 5,
+            "Turn_Air": 4,
+            "OffRoad": 5,
+            "MiniTurbo": 4,
+            "TireFeeling": 4,
+            "DriftStart": 0
+          }
+         ]         
+      },
+      {
+        "id": "gliders",
+        "name": "Gliders",
+        "columns": [
+          {
+            "field": "Glider",
+            "label": "Glider",
+            "sortable": true
+          },
+          {
+            "field": "Weight",
+            "label": "Weight",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Land",
+            "label": "Speed (land)",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Sea",
+            "label": "Speed (sea)",
+            "sortable": true
+          },
+          {
+            "field": "Speed_Air",
+            "label": "Speed (air)",
+            "sortable": true
+          },
+          {
+            "field": "Accel",
+            "label": "Acceleration",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Land",
+            "label": "Turn (land)",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Sea",
+            "label": "Turn (sea)",
+            "sortable": true
+          },
+          {
+            "field": "Turn_Air",
+            "label": "Turn (air)",
+            "sortable": true
+          },
+          {
+            "field": "OffRoad",
+            "label": "OffRoad",
+            "sortable": true
+          },
+          {
+            "field": "MiniTurbo",
+            "label": "MiniTurbo",
+            "sortable": true
+          },
+          {
+            "field": "TireFeeling",
+            "label": "Tire Feeling",
+            "sortable": true
+          },
+          {
+            "field": "DriftStart",
+            "label": "Drift Start",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Glider": "Std",
+            "Weight": 1,
+            "Speed_Land": 0,
+            "Speed_Sea": 0,
+            "Speed_Air": 12,
+            "Accel": 0,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 0,
+            "MiniTurbo": 0,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          },
+          {
+            "Glider": "Para",
+            "Weight": 0,
+            "Speed_Land": 0,
+            "Speed_Sea": 0,
+            "Speed_Air": 6,
+            "Accel": 1,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 4,
+            "OffRoad": 0,
+            "MiniTurbo": 1,
+            "TireFeeling": 0,
+            "DriftStart": 0
+          },
+          {
+            "Glider": "Umb",
+            "Weight": 0,
+            "Speed_Land": 0,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 1,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 8,
+            "OffRoad": 0,
+            "MiniTurbo": 1,
+            "TireFeeling": 0,
+            "DriftStart": 0
+          },
+          {
+            "Glider": "Flower",
+            "Weight": 0,
+            "Speed_Land": 0,
+            "Speed_Sea": 0,
+            "Speed_Air": 0,
+            "Accel": 1,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 8,
+            "OffRoad": 0,
+            "MiniTurbo": 1,
+            "TireFeeling": 0,
+            "DriftStart": 0
+          },
+          {
+            "Glider": "Basa",
+            "Weight": 0,
+            "Speed_Land": 0,
+            "Speed_Sea": 0,
+            "Speed_Air": 6,
+            "Accel": 1,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 4,
+            "OffRoad": 0,
+            "MiniTurbo": 1,
+            "TireFeeling": 0,
+            "DriftStart": 0
+          },
+          {
+            "Glider": "Met",
+            "Weight": 1,
+            "Speed_Land": 0,
+            "Speed_Sea": 0,
+            "Speed_Air": 12,
+            "Accel": 0,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 0,
+            "MiniTurbo": 0,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          },
+          {
+            "Glider": "Gold",
+            "Weight": 1,
+            "Speed_Land": 0,
+            "Speed_Sea": 0,
+            "Speed_Air": 12,
+            "Accel": 0,
+            "Turn_Land": 0,
+            "Turn_Sea": 0,
+            "Turn_Air": 0,
+            "OffRoad": 0,
+            "MiniTurbo": 0,
+            "TireFeeling": 0,
+            "DriftStart": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mariokart8",
+    "name": "8",
+    "stats": [
+      {
+        "id": "characters",
+        "name": "Characters",
+        "columns": [
+          {
+            "field": "Driver",
+            "label": "Driver",
+            "sortable": true
+          },
+          {
+            "field": "WG",
+            "label": "WG",
+            "sortable": true
+          },
+          {
+            "field": "AC",
+            "label": "AC",
+            "sortable": true
+          },
+          {
+            "field": "ON",
+            "label": "ON",
+            "sortable": true
+          },
+          {
+            "field": "OF",
+            "label": "OF",
+            "sortable": true
+          },
+          {
+            "field": "MT",
+            "label": "MT",
+            "sortable": true
+          },
+          {
+            "field": "SL",
+            "label": "SL",
+            "sortable": true
+          },
+          {
+            "field": "SW",
+            "label": "SW",
+            "sortable": true
+          },
+          {
+            "field": "SA",
+            "label": "SA",
+            "sortable": true
+          },
+          {
+            "field": "SG",
+            "label": "SG",
+            "sortable": true
+          },
+          {
+            "field": "TL",
+            "label": "TL",
+            "sortable": true
+          },
+          {
+            "field": "TW",
+            "label": "TW",
+            "sortable": true
+          },
+          {
+            "field": "TA",
+            "label": "TA",
+            "sortable": true
+          },
+          {
+            "field": "TG",
+            "label": "TG",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Driver": "Mario\nMro",
+            "WG": 6,
+            "AC": 2,
+            "ON": 6,
+            "OF": 2,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Luigi\nLig",
+            "WG": 6,
+            "AC": 2,
+            "ON": 6,
+            "OF": 2,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Peach\nPch",
+            "WG": 4,
+            "AC": 3,
+            "ON": 4,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 4,
+            "SA": 4,
+            "SG": 4,
+            "TL": 6,
+            "TW": 6,
+            "TA": 6,
+            "TG": 6
+          },
+          {
+            "Driver": "Daisy\nDsy",
+            "WG": 4,
+            "AC": 3,
+            "ON": 4,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 4,
+            "SA": 4,
+            "SG": 4,
+            "TL": 6,
+            "TW": 6,
+            "TA": 6,
+            "TG": 6
+          },
+          {
+            "Driver": "Yoshi\nYsi1",
+            "WG": 4,
+            "AC": 3,
+            "ON": 4,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 4,
+            "SA": 4,
+            "SG": 4,
+            "TL": 6,
+            "TW": 6,
+            "TA": 6,
+            "TG": 6
+          },
+          {
+            "Driver": "Toad\nKno",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Toadette\nKnc",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Koopa Troopa\nNok",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Bowser\nKop",
+            "WG": 10,
+            "AC": 0,
+            "ON": 10,
+            "OF": 0,
+            "MT": 0,
+            "SL": 10,
+            "SW": 10,
+            "SA": 10,
+            "SG": 10,
+            "TL": 0,
+            "TW": 0,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Driver": "Donkey Kong\nDkg",
+            "WG": 8,
+            "AC": 1,
+            "ON": 8,
+            "OF": 1,
+            "MT": 1,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Wario\nWro",
+            "WG": 10,
+            "AC": 0,
+            "ON": 10,
+            "OF": 0,
+            "MT": 0,
+            "SL": 10,
+            "SW": 10,
+            "SA": 10,
+            "SG": 10,
+            "TL": 0,
+            "TW": 0,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Driver": "Waluigi\nWlg",
+            "WG": 8,
+            "AC": 1,
+            "ON": 8,
+            "OF": 1,
+            "MT": 1,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Rosalina\nRst",
+            "WG": 8,
+            "AC": 1,
+            "ON": 8,
+            "OF": 1,
+            "MT": 1,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Metal Mario\nMroM",
+            "WG": 10,
+            "AC": 0,
+            "ON": 10,
+            "OF": 0,
+            "MT": 0,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Pink Gold Peach\nPchG",
+            "WG": 10,
+            "AC": 0,
+            "ON": 10,
+            "OF": 0,
+            "MT": 0,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Lakitu\nJgm",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Shy Guy\nHyh1",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Baby Mario\nMroB",
+            "WG": 0,
+            "AC": 5,
+            "ON": 0,
+            "OF": 5,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 10,
+            "TW": 10,
+            "TA": 10,
+            "TG": 10
+          },
+          {
+            "Driver": "Baby Luigi\nLigB",
+            "WG": 0,
+            "AC": 5,
+            "ON": 0,
+            "OF": 5,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 10,
+            "TW": 10,
+            "TA": 10,
+            "TG": 10
+          },
+          {
+            "Driver": "Baby Peach\nPchB",
+            "WG": 0,
+            "AC": 5,
+            "ON": 0,
+            "OF": 5,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 10,
+            "TW": 10,
+            "TA": 10,
+            "TG": 10
+          },
+          {
+            "Driver": "Baby Daisy\nDsyB",
+            "WG": 0,
+            "AC": 5,
+            "ON": 0,
+            "OF": 5,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 10,
+            "TW": 10,
+            "TA": 10,
+            "TG": 10
+          },
+          {
+            "Driver": "Baby Rosalina\nRstB",
+            "WG": 0,
+            "AC": 5,
+            "ON": 0,
+            "OF": 5,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 10,
+            "TW": 10,
+            "TA": 10,
+            "TG": 10
+          },
+          {
+            "Driver": "Larry\nLry",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Lemmy\nLmy",
+            "WG": 0,
+            "AC": 5,
+            "ON": 0,
+            "OF": 5,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 10,
+            "TW": 10,
+            "TA": 10,
+            "TG": 10
+          },
+          {
+            "Driver": "Wendy\nWdy",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Ludwig\nLdw",
+            "WG": 6,
+            "AC": 2,
+            "ON": 6,
+            "OF": 2,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Iggy\nIgy",
+            "WG": 6,
+            "AC": 2,
+            "ON": 6,
+            "OF": 2,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Roy\nRoy",
+            "WG": 8,
+            "AC": 1,
+            "ON": 8,
+            "OF": 1,
+            "MT": 1,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Morton\nMtn",
+            "WG": 10,
+            "AC": 0,
+            "ON": 10,
+            "OF": 0,
+            "MT": 0,
+            "SL": 10,
+            "SW": 10,
+            "SA": 10,
+            "SG": 10,
+            "TL": 0,
+            "TW": 0,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Driver": "Mii (medium)\nMiiM",
+            "WG": 6,
+            "AC": 2,
+            "ON": 6,
+            "OF": 2,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Tanooki Mario\nMroT",
+            "WG": 5,
+            "AC": 3,
+            "ON": 6,
+            "OF": 2,
+            "MT": 3,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Link\nLnk",
+            "WG": 8,
+            "AC": 1,
+            "ON": 8,
+            "OF": 1,
+            "MT": 1,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Villager (male)\nMrb",
+            "WG": 5,
+            "AC": 3,
+            "ON": 6,
+            "OF": 2,
+            "MT": 3,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Isabelle\nShz",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Cat Peach\nPchC",
+            "WG": 3,
+            "AC": 4,
+            "ON": 3,
+            "OF": 3,
+            "MT": 4,
+            "SL": 4,
+            "SW": 4,
+            "SA": 4,
+            "SG": 4,
+            "TL": 6,
+            "TW": 6,
+            "TA": 6,
+            "TG": 6
+          },
+          {
+            "Driver": "Dry Bowser\nKopB",
+            "WG": 10,
+            "AC": 0,
+            "ON": 10,
+            "OF": 0,
+            "MT": 0,
+            "SL": 10,
+            "SW": 10,
+            "SA": 10,
+            "SG": 10,
+            "TL": 0,
+            "TW": 0,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Driver": "Villager (female)\nMrg",
+            "WG": 3,
+            "AC": 4,
+            "ON": 3,
+            "OF": 3,
+            "MT": 4,
+            "SL": 4,
+            "SW": 4,
+            "SA": 4,
+            "SG": 4,
+            "TL": 6,
+            "TW": 6,
+            "TA": 6,
+            "TG": 6
+          }
+         ]
+      },
+      {
+        "id": "karts",
+        "name": "Karts",
+        "columns": [
+          {
+            "field": "Body",
+            "label": "Body",
+            "sortable": true
+          },
+          {
+            "field": "WG",
+            "label": "WG",
+            "sortable": true
+          },
+          {
+            "field": "AC",
+            "label": "AC",
+            "sortable": true
+          },
+          {
+            "field": "ON",
+            "label": "ON",
+            "sortable": true
+          },
+          {
+            "field": "OF",
+            "label": "OF",
+            "sortable": true
+          },
+          {
+            "field": "MT",
+            "label": "MT",
+            "sortable": true
+          },
+          {
+            "field": "SL",
+            "label": "SL",
+            "sortable": true
+          },
+          {
+            "field": "SW",
+            "label": "SW",
+            "sortable": true
+          },
+          {
+            "field": "SA",
+            "label": "SA",
+            "sortable": true
+          },
+          {
+            "field": "SG",
+            "label": "SG",
+            "sortable": true
+          },
+          {
+            "field": "TL",
+            "label": "TL",
+            "sortable": true
+          },
+          {
+            "field": "TW",
+            "label": "TW",
+            "sortable": true
+          },
+          {
+            "field": "TA",
+            "label": "TA",
+            "sortable": true
+          },
+          {
+            "field": "TG",
+            "label": "TG",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Body": "Standard Kart",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 4,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "Pipe Frame",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Mach 8",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 4,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 1
+          },
+          {
+            "Body": "Steel Driver",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 7,
+            "MT": 0,
+            "SL": 3,
+            "SW": 5,
+            "SA": 3,
+            "SG": 2,
+            "TL": 0,
+            "TW": 5,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Body": "Cat Cruiser",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 4,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "Circuit Special",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 4,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 1
+          },
+          {
+            "Body": "Tri-Speeder",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 7,
+            "MT": 0,
+            "SL": 3,
+            "SW": 5,
+            "SA": 3,
+            "SG": 2,
+            "TL": 0,
+            "TW": 5,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Body": "Badwagon",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 7,
+            "MT": 0,
+            "SL": 3,
+            "SW": 5,
+            "SA": 3,
+            "SG": 2,
+            "TL": 0,
+            "TW": 5,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Body": "Prancer",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 4,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "Biddybuggy\nBuggybud",
+            "WG": 0,
+            "AC": 7,
+            "ON": 0,
+            "OF": 4,
+            "MT": 7,
+            "SL": 0,
+            "SW": 5,
+            "SA": 0,
+            "SG": 4,
+            "TL": 4,
+            "TW": 5,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Body": "Landship",
+            "WG": 0,
+            "AC": 7,
+            "ON": 0,
+            "OF": 4,
+            "MT": 7,
+            "SL": 0,
+            "SW": 5,
+            "SA": 0,
+            "SG": 4,
+            "TL": 4,
+            "TW": 5,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Body": "Sneeker\nBounder",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 4,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "Sports Coupe\nSports Coupé",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 4,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 1
+          },
+          {
+            "Body": "Gold Standard\nGold Kart",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 4,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 1
+          },
+          {
+            "Body": "Standard Bike",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Comet",
+            "WG": 1,
+            "AC": 5,
+            "ON": 1,
+            "OF": 0,
+            "MT": 5,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 2,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 4
+          },
+          {
+            "Body": "Sport Bike",
+            "WG": 1,
+            "AC": 5,
+            "ON": 1,
+            "OF": 0,
+            "MT": 5,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 2,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 4
+          },
+          {
+            "Body": "The Duke",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 4,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "Flame Rider",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Varmint",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Mr. Scooty\nMr Scooty",
+            "WG": 0,
+            "AC": 7,
+            "ON": 0,
+            "OF": 4,
+            "MT": 7,
+            "SL": 0,
+            "SW": 5,
+            "SA": 0,
+            "SG": 4,
+            "TL": 4,
+            "TW": 5,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Body": "Jet Bike",
+            "WG": 1,
+            "AC": 5,
+            "ON": 1,
+            "OF": 0,
+            "MT": 5,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 2,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 4
+          },
+          {
+            "Body": "Yoshi Bike",
+            "WG": 1,
+            "AC": 5,
+            "ON": 1,
+            "OF": 0,
+            "MT": 5,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 2,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 4
+          },
+          {
+            "Body": "Standard ATV\nStandard Quad",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 7,
+            "MT": 0,
+            "SL": 3,
+            "SW": 5,
+            "SA": 3,
+            "SG": 2,
+            "TL": 0,
+            "TW": 5,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Body": "Wild Wiggler",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Teddy Buggy",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 4,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "GLA",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 7,
+            "MT": 0,
+            "SL": 3,
+            "SW": 5,
+            "SA": 3,
+            "SG": 2,
+            "TL": 0,
+            "TW": 5,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Body": "W 25 Silver Arrow",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "300 SL Roadster",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 4,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "Blue Falcon",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 3,
+            "SA": 5,
+            "SG": 3,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "Tanooki Kart",
+            "WG": 3,
+            "AC": 1,
+            "ON": 4,
+            "OF": 6,
+            "MT": 1,
+            "SL": 3,
+            "SW": 5,
+            "SA": 3,
+            "SG": 3,
+            "TL": 1,
+            "TW": 5,
+            "TA": 1,
+            "TG": 4
+          },
+          {
+            "Body": "B Dasher",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 4,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 1
+          },
+          {
+            "Body": "Master Cycle",
+            "WG": 2,
+            "AC": 2,
+            "ON": 1,
+            "OF": 2,
+            "MT": 3,
+            "SL": 4,
+            "SW": 5,
+            "SA": 3,
+            "SG": 4,
+            "TL": 4,
+            "TW": 4,
+            "TA": 5,
+            "TG": 4
+          },
+          {
+            "Body": "Unused Body 11",
+            "WG": 3,
+            "AC": 3,
+            "ON": 3,
+            "OF": 3,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Body": "Unused Body 21",
+            "WG": 3,
+            "AC": 3,
+            "ON": 3,
+            "OF": 3,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Body": "Streetle",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 3,
+            "SA": 5,
+            "SG": 3,
+            "TL": 2,
+            "TW": 2,
+            "TA": 3,
+            "TG": 1
+          },
+          {
+            "Body": "P-Wing",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 4,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 1
+          },
+          {
+            "Body": "City Tripper",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Bone Rattler",
+            "WG": 3,
+            "AC": 1,
+            "ON": 4,
+            "OF": 6,
+            "MT": 1,
+            "SL": 3,
+            "SW": 5,
+            "SA": 3,
+            "SG": 3,
+            "TL": 1,
+            "TW": 5,
+            "TA": 1,
+            "TG": 4
+          }
+        ]
+      },
+      {
+        "id": "tires",
+        "name": "Tires",
+        "columns": [
+          {
+            "field": "Tire",
+            "label": "Tire",
+            "sortable": true
+          },
+          {
+            "field": "WG",
+            "label": "WG",
+            "sortable": true
+          },
+          {
+            "field": "AC",
+            "label": "AC",
+            "sortable": true
+          },
+          {
+            "field": "ON",
+            "label": "ON",
+            "sortable": true
+          },
+          {
+            "field": "OF",
+            "label": "OF",
+            "sortable": true
+          },
+          {
+            "field": "MT",
+            "label": "MT",
+            "sortable": true
+          },
+          {
+            "field": "SL",
+            "label": "SL",
+            "sortable": true
+          },
+          {
+            "field": "SW",
+            "label": "SW",
+            "sortable": true
+          },
+          {
+            "field": "SA",
+            "label": "SA",
+            "sortable": true
+          },
+          {
+            "field": "SG",
+            "label": "SG",
+            "sortable": true
+          },
+          {
+            "field": "TL",
+            "label": "TL",
+            "sortable": true
+          },
+          {
+            "field": "TW",
+            "label": "TW",
+            "sortable": true
+          },
+          {
+            "field": "TA",
+            "label": "TA",
+            "sortable": true
+          },
+          {
+            "field": "TG",
+            "label": "TG",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Tire": "Standard\nNormal",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 4,
+            "MT": 2,
+            "SL": 2,
+            "SW": 4,
+            "SA": 2,
+            "SG": 2,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Monster",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 7,
+            "MT": 0,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 0,
+            "TL": 0,
+            "TW": 0,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Tire": "Roller",
+            "WG": 0,
+            "AC": 6,
+            "ON": 0,
+            "OF": 3,
+            "MT": 6,
+            "SL": 0,
+            "SW": 4,
+            "SA": 0,
+            "SG": 4,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Tire": "Slim",
+            "WG": 2,
+            "AC": 1,
+            "ON": 3,
+            "OF": 2,
+            "MT": 1,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Tire": "Slick",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 0,
+            "MT": 1,
+            "SL": 4,
+            "SW": 0,
+            "SA": 4,
+            "SG": 4,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Metal",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 2,
+            "MT": 0,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Button",
+            "WG": 0,
+            "AC": 6,
+            "ON": 0,
+            "OF": 3,
+            "MT": 6,
+            "SL": 0,
+            "SW": 4,
+            "SA": 0,
+            "SG": 4,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Tire": "Off-Road",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 4,
+            "MT": 2,
+            "SL": 2,
+            "SW": 4,
+            "SA": 2,
+            "SG": 2,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Sponge",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 6,
+            "MT": 3,
+            "SL": 1,
+            "SW": 0,
+            "SA": 1,
+            "SG": 3,
+            "TL": 2,
+            "TW": 1,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Tire": "Wood\nWooden",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 6,
+            "MT": 3,
+            "SL": 1,
+            "SW": 0,
+            "SA": 1,
+            "SG": 3,
+            "TL": 2,
+            "TW": 1,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Tire": "Cushion",
+            "WG": 1,
+            "AC": 3,
+            "ON": 1,
+            "OF": 6,
+            "MT": 3,
+            "SL": 1,
+            "SW": 0,
+            "SA": 1,
+            "SG": 3,
+            "TL": 2,
+            "TW": 1,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Tire": "Blue Standard\nNormal Blue",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 4,
+            "MT": 2,
+            "SL": 2,
+            "SW": 4,
+            "SA": 2,
+            "SG": 2,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Hot Monster\nFunky Monster",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 7,
+            "MT": 0,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 0,
+            "TL": 0,
+            "TW": 0,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Tire": "Azure Roller",
+            "WG": 0,
+            "AC": 6,
+            "ON": 0,
+            "OF": 3,
+            "MT": 6,
+            "SL": 0,
+            "SW": 4,
+            "SA": 0,
+            "SG": 4,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Tire": "Crimson Slim",
+            "WG": 2,
+            "AC": 1,
+            "ON": 3,
+            "OF": 2,
+            "MT": 1,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Tire": "Cyber Slick",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 0,
+            "MT": 1,
+            "SL": 4,
+            "SW": 0,
+            "SA": 4,
+            "SG": 4,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Retro Off-Road",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 4,
+            "MT": 2,
+            "SL": 2,
+            "SW": 4,
+            "SA": 2,
+            "SG": 2,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Gold Tires\nGold Wheels",
+            "WG": 4,
+            "AC": 0,
+            "ON": 4,
+            "OF": 2,
+            "MT": 0,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "GLA Tires\nGLA Wheels",
+            "WG": 2,
+            "AC": 2,
+            "ON": 2,
+            "OF": 4,
+            "MT": 2,
+            "SL": 2,
+            "SW": 4,
+            "SA": 2,
+            "SG": 2,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Triforce Tires\nTriforce Tyres",
+            "WG": 2,
+            "AC": 1,
+            "ON": 3,
+            "OF": 2,
+            "MT": 1,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Tire": "Leaf Tires\nLeaf Tyres",
+            "WG": 0,
+            "AC": 6,
+            "ON": 0,
+            "OF": 3,
+            "MT": 6,
+            "SL": 0,
+            "SW": 4,
+            "SA": 0,
+            "SG": 4,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          }
+        ]
+      },
+      {
+        "id": "gliders",
+        "name": "Gliders",
+        "columns": [
+          {
+            "field": "Glider",
+            "label": "Glider",
+            "sortable": true
+          },
+          {
+            "field": "WG",
+            "label": "WG",
+            "sortable": true
+          },
+          {
+            "field": "AC",
+            "label": "AC",
+            "sortable": true
+          },
+          {
+            "field": "ON",
+            "label": "ON",
+            "sortable": true
+          },
+          {
+            "field": "OF",
+            "label": "OF",
+            "sortable": true
+          },
+          {
+            "field": "MT",
+            "label": "MT",
+            "sortable": true
+          },
+          {
+            "field": "SL",
+            "label": "SL",
+            "sortable": true
+          },
+          {
+            "field": "SW",
+            "label": "SW",
+            "sortable": true
+          },
+          {
+            "field": "SA",
+            "label": "SA",
+            "sortable": true
+          },
+          {
+            "field": "SG",
+            "label": "SG",
+            "sortable": true
+          },
+          {
+            "field": "TL",
+            "label": "TL",
+            "sortable": true
+          },
+          {
+            "field": "TW",
+            "label": "TW",
+            "sortable": true
+          },
+          {
+            "field": "TA",
+            "label": "TA",
+            "sortable": true
+          },
+          {
+            "field": "TG",
+            "label": "TG",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Glider": "Super Glider",
+            "WG": 2,
+            "AC": 1,
+            "ON": 1,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Glider": "Cloud Glider",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Wario Wing",
+            "WG": 2,
+            "AC": 1,
+            "ON": 2,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Glider": "Waddle Wing",
+            "WG": 2,
+            "AC": 1,
+            "ON": 2,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Glider": "Peach Parasol",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Parachute",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Parafoil",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Flower Glider",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Bowser Kite",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Plane Glider",
+            "WG": 2,
+            "AC": 1,
+            "ON": 2,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Glider": "MKTV Parafoil",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Gold Glider",
+            "WG": 2,
+            "AC": 1,
+            "ON": 2,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Glider": "Hylian Kite",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Paper Glider",
+            "WG": 2,
+            "AC": 1,
+            "ON": 1,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mariokart8deluxe",
+    "name": "8 Deluxe",
+    "stats": [
+      {
+        "id": "characters",
+        "name": "Characters",
+        "columns": [
+          {
+            "field": "Driver",
+            "label": "Driver",
+            "sortable": true
+          },
+          {
+            "field": "WG",
+            "label": "WG",
+            "sortable": true
+          },
+          {
+            "field": "AC",
+            "label": "AC",
+            "sortable": true
+          },
+          {
+            "field": "ON",
+            "label": "ON",
+            "sortable": true
+          },
+          {
+            "field": "OF",
+            "label": "OF",
+            "sortable": true
+          },
+          {
+            "field": "MT",
+            "label": "MT",
+            "sortable": true
+          },
+          {
+            "field": "SL",
+            "label": "SL",
+            "sortable": true
+          },
+          {
+            "field": "SW",
+            "label": "SW",
+            "sortable": true
+          },
+          {
+            "field": "SA",
+            "label": "SA",
+            "sortable": true
+          },
+          {
+            "field": "SG",
+            "label": "SG",
+            "sortable": true
+          },
+          {
+            "field": "TL",
+            "label": "TL",
+            "sortable": true
+          },
+          {
+            "field": "TW",
+            "label": "TW",
+            "sortable": true
+          },
+          {
+            "field": "TA",
+            "label": "TA",
+            "sortable": true
+          },
+          {
+            "field": "TG",
+            "label": "TG",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Driver": "Mario\nMro",
+            "WG": 6,
+            "AC": 2,
+            "ON": 4,
+            "OF": 2,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Luigi\nLig",
+            "WG": 6,
+            "AC": 2,
+            "ON": 5,
+            "OF": 1,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 5
+          },
+          {
+            "Driver": "Peach\nPch",
+            "WG": 4,
+            "AC": 3,
+            "ON": 3,
+            "OF": 3,
+            "MT": 3,
+            "SL": 5,
+            "SW": 5,
+            "SA": 5,
+            "SG": 5,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 5
+          },
+          {
+            "Driver": "Daisy\nDsy",
+            "WG": 4,
+            "AC": 3,
+            "ON": 3,
+            "OF": 3,
+            "MT": 3,
+            "SL": 5,
+            "SW": 5,
+            "SA": 5,
+            "SG": 5,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 5
+          },
+          {
+            "Driver": "Yoshi\nYsi1",
+            "WG": 4,
+            "AC": 3,
+            "ON": 3,
+            "OF": 3,
+            "MT": 3,
+            "SL": 5,
+            "SW": 5,
+            "SA": 5,
+            "SG": 5,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 5
+          },
+          {
+            "Driver": "Toad\nKno",
+            "WG": 3,
+            "AC": 4,
+            "ON": 3,
+            "OF": 4,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 7,
+            "TW": 7,
+            "TA": 7,
+            "TG": 7
+          },
+          {
+            "Driver": "Toadette\nKnc",
+            "WG": 2,
+            "AC": 5,
+            "ON": 4,
+            "OF": 2,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 7,
+            "TW": 7,
+            "TA": 7,
+            "TG": 7
+          },
+          {
+            "Driver": "Koopa Troopa\nNok",
+            "WG": 2,
+            "AC": 4,
+            "ON": 1,
+            "OF": 5,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Bowser\nKop",
+            "WG": 10,
+            "AC": 0,
+            "ON": 6,
+            "OF": 0,
+            "MT": 0,
+            "SL": 10,
+            "SW": 10,
+            "SA": 10,
+            "SG": 10,
+            "TL": 0,
+            "TW": 0,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Driver": "Donkey Kong\nDkg",
+            "WG": 8,
+            "AC": 1,
+            "ON": 10,
+            "OF": 0,
+            "MT": 1,
+            "SL": 9,
+            "SW": 9,
+            "SA": 9,
+            "SG": 9,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Wario\nWro",
+            "WG": 9,
+            "AC": 0,
+            "ON": 5,
+            "OF": 1,
+            "MT": 0,
+            "SL": 10,
+            "SW": 10,
+            "SA": 10,
+            "SG": 10,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Driver": "Waluigi\nWlg",
+            "WG": 8,
+            "AC": 1,
+            "ON": 10,
+            "OF": 0,
+            "MT": 1,
+            "SL": 9,
+            "SW": 9,
+            "SA": 9,
+            "SG": 9,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Rosalina\nRst",
+            "WG": 7,
+            "AC": 1,
+            "ON": 9,
+            "OF": 3,
+            "MT": 2,
+            "SL": 7,
+            "SW": 7,
+            "SA": 7,
+            "SG": 7,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Driver": "Metal Mario\nMroM",
+            "WG": 10,
+            "AC": 1,
+            "ON": 8,
+            "OF": 1,
+            "MT": 1,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Driver": "Pink Gold Peach\nPchG",
+            "WG": 10,
+            "AC": 1,
+            "ON": 8,
+            "OF": 1,
+            "MT": 1,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Driver": "Lakitu\nJgm",
+            "WG": 2,
+            "AC": 4,
+            "ON": 1,
+            "OF": 5,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Shy Guy\nHyh1",
+            "WG": 3,
+            "AC": 4,
+            "ON": 3,
+            "OF": 4,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 7,
+            "TW": 7,
+            "TA": 7,
+            "TG": 7
+          },
+          {
+            "Driver": "Baby Mario\nMroB",
+            "WG": 1,
+            "AC": 5,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Baby Luigi\nLigB",
+            "WG": 1,
+            "AC": 5,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Baby Peach\nPchB",
+            "WG": 0,
+            "AC": 4,
+            "ON": 3,
+            "OF": 5,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 10,
+            "TW": 10,
+            "TA": 10,
+            "TG": 10
+          },
+          {
+            "Driver": "Baby Daisy\nDsyB",
+            "WG": 0,
+            "AC": 4,
+            "ON": 3,
+            "OF": 5,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 10,
+            "TW": 10,
+            "TA": 10,
+            "TG": 10
+          },
+          {
+            "Driver": "Baby Rosalina\nRstB",
+            "WG": 0,
+            "AC": 5,
+            "ON": 4,
+            "OF": 3,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 9,
+            "TW": 9,
+            "TA": 9,
+            "TG": 9
+          },
+          {
+            "Driver": "Larry\nLry",
+            "WG": 3,
+            "AC": 4,
+            "ON": 3,
+            "OF": 4,
+            "MT": 3,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 7,
+            "TW": 7,
+            "TA": 7,
+            "TG": 7
+          },
+          {
+            "Driver": "Lemmy\nLmy",
+            "WG": 0,
+            "AC": 5,
+            "ON": 4,
+            "OF": 3,
+            "MT": 5,
+            "SL": 0,
+            "SW": 0,
+            "SA": 0,
+            "SG": 0,
+            "TL": 9,
+            "TW": 9,
+            "TA": 9,
+            "TG": 9
+          },
+          {
+            "Driver": "Wendy\nWdy",
+            "WG": 2,
+            "AC": 5,
+            "ON": 4,
+            "OF": 2,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 7,
+            "TW": 7,
+            "TA": 7,
+            "TG": 7
+          },
+          {
+            "Driver": "Ludwig\nLdw",
+            "WG": 6,
+            "AC": 2,
+            "ON": 4,
+            "OF": 2,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Iggy\nIgy",
+            "WG": 6,
+            "AC": 2,
+            "ON": 5,
+            "OF": 1,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 5
+          },
+          {
+            "Driver": "Roy\nRoy",
+            "WG": 8,
+            "AC": 1,
+            "ON": 10,
+            "OF": 0,
+            "MT": 1,
+            "SL": 9,
+            "SW": 9,
+            "SA": 9,
+            "SG": 9,
+            "TL": 2,
+            "TW": 2,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Driver": "Morton\nMtn",
+            "WG": 10,
+            "AC": 0,
+            "ON": 6,
+            "OF": 0,
+            "MT": 0,
+            "SL": 10,
+            "SW": 10,
+            "SA": 10,
+            "SG": 10,
+            "TL": 0,
+            "TW": 0,
+            "TA": 0,
+            "TG": 0
+          },
+          {
+            "Driver": "Mii (medium)\nMiiM",
+            "WG": 6,
+            "AC": 2,
+            "ON": 4,
+            "OF": 2,
+            "MT": 2,
+            "SL": 6,
+            "SW": 6,
+            "SA": 6,
+            "SG": 6,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Driver": "Tanooki Mario\nMroT",
+            "WG": 5,
+            "AC": 3,
+            "ON": 7,
+            "OF": 1,
+            "MT": 3,
+            "SL": 5,
+            "SW": 5,
+            "SA": 5,
+            "SG": 5,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 5
+          },
+          {
+            "Driver": "Link\nLnk",
+            "WG": 7,
+            "AC": 1,
+            "ON": 9,
+            "OF": 3,
+            "MT": 2,
+            "SL": 7,
+            "SW": 7,
+            "SA": 7,
+            "SG": 7,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Driver": "Villager (male)\nMrb",
+            "WG": 5,
+            "AC": 3,
+            "ON": 7,
+            "OF": 1,
+            "MT": 3,
+            "SL": 5,
+            "SW": 5,
+            "SA": 5,
+            "SG": 5,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 5
+          },
+          {
+            "Driver": "Isabelle\nShz",
+            "WG": 2,
+            "AC": 5,
+            "ON": 4,
+            "OF": 2,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 7,
+            "TW": 7,
+            "TA": 7,
+            "TG": 7
+          },
+          {
+            "Driver": "Cat Peach\nPchC",
+            "WG": 3,
+            "AC": 4,
+            "ON": 2,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 4,
+            "SA": 4,
+            "SG": 4,
+            "TL": 6,
+            "TW": 6,
+            "TA": 6,
+            "TG": 6
+          },
+          {
+            "Driver": "Dry Bowser\nKopB",
+            "WG": 9,
+            "AC": 0,
+            "ON": 5,
+            "OF": 1,
+            "MT": 0,
+            "SL": 10,
+            "SW": 10,
+            "SA": 10,
+            "SG": 10,
+            "TL": 1,
+            "TW": 1,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Driver": "Villager (female)\nMrg",
+            "WG": 3,
+            "AC": 4,
+            "ON": 2,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 4,
+            "SA": 4,
+            "SG": 4,
+            "TL": 6,
+            "TW": 6,
+            "TA": 6,
+            "TG": 6
+          },
+          {
+            "Driver": "Gold Mario\nMroG",
+            "WG": 10,
+            "AC": 1,
+            "ON": 8,
+            "OF": 1,
+            "MT": 1,
+            "SL": 8,
+            "SW": 8,
+            "SA": 8,
+            "SG": 8,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Driver": "Dry Bones\nKrn",
+            "WG": 1,
+            "AC": 5,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "Bowser Jr.\nKopJ",
+            "WG": 2,
+            "AC": 4,
+            "ON": 1,
+            "OF": 5,
+            "MT": 4,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 8,
+            "TW": 8,
+            "TA": 8,
+            "TG": 8
+          },
+          {
+            "Driver": "King Boo\nKtr",
+            "WG": 7,
+            "AC": 1,
+            "ON": 9,
+            "OF": 3,
+            "MT": 2,
+            "SL": 7,
+            "SW": 7,
+            "SA": 7,
+            "SG": 7,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Driver": "Inkling Girl\nSpg1",
+            "WG": 3,
+            "AC": 4,
+            "ON": 2,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 4,
+            "SA": 4,
+            "SG": 4,
+            "TL": 6,
+            "TW": 6,
+            "TA": 6,
+            "TG": 6
+          },
+          {
+            "Driver": "Inkling Boy\nSpb1",
+            "WG": 5,
+            "AC": 3,
+            "ON": 7,
+            "OF": 1,
+            "MT": 3,
+            "SL": 5,
+            "SW": 5,
+            "SA": 5,
+            "SG": 5,
+            "TL": 5,
+            "TW": 5,
+            "TA": 5,
+            "TG": 5
+          }
+        ]
+      },
+      {
+        "id": "karts",
+        "name": "Karts",
+        "columns": [
+          {
+            "field": "Body",
+            "label": "Body",
+            "sortable": true
+          },
+          {
+            "field": "WG",
+            "label": "WG",
+            "sortable": true
+          },
+          {
+            "field": "AC",
+            "label": "AC",
+            "sortable": true
+          },
+          {
+            "field": "ON",
+            "label": "ON",
+            "sortable": true
+          },
+          {
+            "field": "OF",
+            "label": "OF",
+            "sortable": true
+          },
+          {
+            "field": "MT",
+            "label": "MT",
+            "sortable": true
+          },
+          {
+            "field": "SL",
+            "label": "SL",
+            "sortable": true
+          },
+          {
+            "field": "SW",
+            "label": "SW",
+            "sortable": true
+          },
+          {
+            "field": "SA",
+            "label": "SA",
+            "sortable": true
+          },
+          {
+            "field": "SG",
+            "label": "SG",
+            "sortable": true
+          },
+          {
+            "field": "TL",
+            "label": "TL",
+            "sortable": true
+          },
+          {
+            "field": "TW",
+            "label": "TW",
+            "sortable": true
+          },
+          {
+            "field": "TA",
+            "label": "TA",
+            "sortable": true
+          },
+          {
+            "field": "TG",
+            "label": "TG",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Body": "Standard Kart",
+            "WG": 2,
+            "AC": 4,
+            "ON": 3,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 2,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Body": "Pipe Frame",
+            "WG": 1,
+            "AC": 6,
+            "ON": 3,
+            "OF": 4,
+            "MT": 6,
+            "SL": 1,
+            "SW": 3,
+            "SA": 1,
+            "SG": 1,
+            "TL": 5,
+            "TW": 4,
+            "TA": 4,
+            "TG": 2
+          },
+          {
+            "Body": "Mach 8",
+            "WG": 3,
+            "AC": 3,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 3,
+            "SW": 3,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 4,
+            "TG": 2
+          },
+          {
+            "Body": "Steel Driver",
+            "WG": 4,
+            "AC": 1,
+            "ON": 1,
+            "OF": 3,
+            "MT": 2,
+            "SL": 4,
+            "SW": 5,
+            "SA": 2,
+            "SG": 0,
+            "TL": 1,
+            "TW": 5,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Body": "Cat Cruiser",
+            "WG": 2,
+            "AC": 5,
+            "ON": 4,
+            "OF": 3,
+            "MT": 5,
+            "SL": 2,
+            "SW": 2,
+            "SA": 3,
+            "SG": 4,
+            "TL": 4,
+            "TW": 2,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Body": "Circuit Special",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 1,
+            "SA": 4,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 2,
+            "TG": 0
+          },
+          {
+            "Body": "Tri-Speeder",
+            "WG": 4,
+            "AC": 1,
+            "ON": 1,
+            "OF": 3,
+            "MT": 2,
+            "SL": 4,
+            "SW": 5,
+            "SA": 2,
+            "SG": 0,
+            "TL": 1,
+            "TW": 5,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Body": "Badwagon",
+            "WG": 4,
+            "AC": 0,
+            "ON": 2,
+            "OF": 5,
+            "MT": 0,
+            "SL": 5,
+            "SW": 2,
+            "SA": 3,
+            "SG": 1,
+            "TL": 0,
+            "TW": 1,
+            "TA": 1,
+            "TG": 0
+          },
+          {
+            "Body": "Prancer",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 2,
+            "MT": 3,
+            "SL": 4,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Body": "Biddybuggy\nBuggybud",
+            "WG": 0,
+            "AC": 7,
+            "ON": 1,
+            "OF": 4,
+            "MT": 7,
+            "SL": 0,
+            "SW": 1,
+            "SA": 2,
+            "SG": 1,
+            "TL": 5,
+            "TW": 4,
+            "TA": 5,
+            "TG": 4
+          },
+          {
+            "Body": "Landship",
+            "WG": 0,
+            "AC": 6,
+            "ON": 0,
+            "OF": 6,
+            "MT": 6,
+            "SL": 1,
+            "SW": 5,
+            "SA": 0,
+            "SG": 2,
+            "TL": 4,
+            "TW": 5,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Body": "Sneeker\nBounder",
+            "WG": 2,
+            "AC": 2,
+            "ON": 1,
+            "OF": 0,
+            "MT": 3,
+            "SL": 4,
+            "SW": 2,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 2,
+            "TA": 3,
+            "TG": 2
+          },
+          {
+            "Body": "Sports Coupe\nSports Coupé",
+            "WG": 3,
+            "AC": 3,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 3,
+            "SW": 3,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 4,
+            "TG": 2
+          },
+          {
+            "Body": "Gold Standard\nGold Kart",
+            "WG": 2,
+            "AC": 2,
+            "ON": 1,
+            "OF": 0,
+            "MT": 3,
+            "SL": 4,
+            "SW": 2,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 2,
+            "TA": 3,
+            "TG": 2
+          },
+          {
+            "Body": "Standard Bike",
+            "WG": 1,
+            "AC": 5,
+            "ON": 3,
+            "OF": 5,
+            "MT": 5,
+            "SL": 2,
+            "SW": 2,
+            "SA": 4,
+            "SG": 3,
+            "TL": 4,
+            "TW": 3,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Comet",
+            "WG": 2,
+            "AC": 5,
+            "ON": 4,
+            "OF": 3,
+            "MT": 5,
+            "SL": 2,
+            "SW": 2,
+            "SA": 3,
+            "SG": 4,
+            "TL": 4,
+            "TW": 2,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Body": "Sport Bike",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 2,
+            "MT": 3,
+            "SL": 4,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Body": "The Duke",
+            "WG": 2,
+            "AC": 4,
+            "ON": 3,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 2,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Body": "Flame Rider",
+            "WG": 1,
+            "AC": 5,
+            "ON": 3,
+            "OF": 5,
+            "MT": 5,
+            "SL": 2,
+            "SW": 2,
+            "SA": 4,
+            "SG": 3,
+            "TL": 4,
+            "TW": 3,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Varmint",
+            "WG": 1,
+            "AC": 6,
+            "ON": 3,
+            "OF": 4,
+            "MT": 6,
+            "SL": 1,
+            "SW": 3,
+            "SA": 1,
+            "SG": 1,
+            "TL": 5,
+            "TW": 4,
+            "TA": 4,
+            "TG": 2
+          },
+          {
+            "Body": "Mr. Scooty\nMr Scooty",
+            "WG": 0,
+            "AC": 7,
+            "ON": 1,
+            "OF": 4,
+            "MT": 7,
+            "SL": 0,
+            "SW": 1,
+            "SA": 2,
+            "SG": 1,
+            "TL": 5,
+            "TW": 4,
+            "TA": 5,
+            "TG": 4
+          },
+          {
+            "Body": "Jet Bike",
+            "WG": 1,
+            "AC": 2,
+            "ON": 1,
+            "OF": 2,
+            "MT": 3,
+            "SL": 4,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Body": "Yoshi Bike",
+            "WG": 2,
+            "AC": 5,
+            "ON": 4,
+            "OF": 3,
+            "MT": 5,
+            "SL": 2,
+            "SW": 2,
+            "SA": 3,
+            "SG": 4,
+            "TL": 4,
+            "TW": 2,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Body": "Standard ATV\nStandard Quad",
+            "WG": 4,
+            "AC": 0,
+            "ON": 2,
+            "OF": 5,
+            "MT": 0,
+            "SL": 5,
+            "SW": 2,
+            "SA": 3,
+            "SG": 1,
+            "TL": 0,
+            "TW": 1,
+            "TA": 1,
+            "TG": 0
+          },
+          {
+            "Body": "Wild Wiggler",
+            "WG": 1,
+            "AC": 5,
+            "ON": 3,
+            "OF": 5,
+            "MT": 5,
+            "SL": 2,
+            "SW": 2,
+            "SA": 4,
+            "SG": 3,
+            "TL": 4,
+            "TW": 3,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "Teddy Buggy",
+            "WG": 2,
+            "AC": 5,
+            "ON": 4,
+            "OF": 3,
+            "MT": 5,
+            "SL": 2,
+            "SW": 2,
+            "SA": 3,
+            "SG": 4,
+            "TL": 4,
+            "TW": 2,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Body": "GLA",
+            "WG": 4,
+            "AC": 0,
+            "ON": 2,
+            "OF": 5,
+            "MT": 0,
+            "SL": 5,
+            "SW": 2,
+            "SA": 3,
+            "SG": 1,
+            "TL": 0,
+            "TW": 1,
+            "TA": 1,
+            "TG": 0
+          },
+          {
+            "Body": "W 25 Silver Arrow",
+            "WG": 1,
+            "AC": 5,
+            "ON": 3,
+            "OF": 5,
+            "MT": 5,
+            "SL": 2,
+            "SW": 2,
+            "SA": 4,
+            "SG": 3,
+            "TL": 4,
+            "TW": 3,
+            "TA": 4,
+            "TG": 3
+          },
+          {
+            "Body": "300 SL Roadster",
+            "WG": 2,
+            "AC": 4,
+            "ON": 3,
+            "OF": 3,
+            "MT": 4,
+            "SL": 3,
+            "SW": 3,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 2,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Body": "Blue Falcon",
+            "WG": 0,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 2,
+            "SA": 4,
+            "SG": 3,
+            "TL": 2,
+            "TW": 3,
+            "TA": 5,
+            "TG": 1
+          },
+          {
+            "Body": "Tanooki Kart",
+            "WG": 3,
+            "AC": 2,
+            "ON": 4,
+            "OF": 7,
+            "MT": 3,
+            "SL": 2,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Body": "B Dasher",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 1,
+            "SA": 4,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 2,
+            "TG": 0
+          },
+          {
+            "Body": "Master Cycle",
+            "WG": 2,
+            "AC": 2,
+            "ON": 1,
+            "OF": 0,
+            "MT": 3,
+            "SL": 4,
+            "SW": 2,
+            "SA": 3,
+            "SG": 3,
+            "TL": 3,
+            "TW": 2,
+            "TA": 3,
+            "TG": 2
+          },
+          {
+            "Body": "Streetle",
+            "WG": 0,
+            "AC": 6,
+            "ON": 0,
+            "OF": 6,
+            "MT": 6,
+            "SL": 1,
+            "SW": 5,
+            "SA": 0,
+            "SG": 2,
+            "TL": 4,
+            "TW": 5,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Body": "P-Wing",
+            "WG": 3,
+            "AC": 1,
+            "ON": 3,
+            "OF": 1,
+            "MT": 1,
+            "SL": 5,
+            "SW": 1,
+            "SA": 4,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 2,
+            "TG": 0
+          },
+          {
+            "Body": "City Tripper",
+            "WG": 1,
+            "AC": 6,
+            "ON": 3,
+            "OF": 4,
+            "MT": 6,
+            "SL": 1,
+            "SW": 3,
+            "SA": 1,
+            "SG": 1,
+            "TL": 5,
+            "TW": 4,
+            "TA": 4,
+            "TG": 2
+          },
+          {
+            "Body": "Bone Rattler",
+            "WG": 4,
+            "AC": 1,
+            "ON": 1,
+            "OF": 3,
+            "MT": 2,
+            "SL": 4,
+            "SW": 5,
+            "SA": 2,
+            "SG": 0,
+            "TL": 1,
+            "TW": 5,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Body": "Koopa Clown",
+            "WG": 3,
+            "AC": 2,
+            "ON": 4,
+            "OF": 7,
+            "MT": 3,
+            "SL": 2,
+            "SW": 4,
+            "SA": 3,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Body": "Splat Buggy",
+            "WG": 0,
+            "AC": 3,
+            "ON": 1,
+            "OF": 3,
+            "MT": 3,
+            "SL": 4,
+            "SW": 2,
+            "SA": 4,
+            "SG": 3,
+            "TL": 2,
+            "TW": 3,
+            "TA": 5,
+            "TG": 1
+          },
+          {
+            "Body": "Inkstriker",
+            "WG": 3,
+            "AC": 3,
+            "ON": 2,
+            "OF": 4,
+            "MT": 4,
+            "SL": 3,
+            "SW": 3,
+            "SA": 5,
+            "SG": 4,
+            "TL": 2,
+            "TW": 2,
+            "TA": 4,
+            "TG": 2
+          }
+        ]
+      },
+      {
+        "id": "tires",
+        "name": "Tires",
+        "columns": [
+          {
+            "field": "Tire",
+            "label": "Tire",
+            "sortable": true
+          },
+          {
+            "field": "WG",
+            "label": "WG",
+            "sortable": true
+          },
+          {
+            "field": "AC",
+            "label": "AC",
+            "sortable": true
+          },
+          {
+            "field": "ON",
+            "label": "ON",
+            "sortable": true
+          },
+          {
+            "field": "OF",
+            "label": "OF",
+            "sortable": true
+          },
+          {
+            "field": "MT",
+            "label": "MT",
+            "sortable": true
+          },
+          {
+            "field": "SL",
+            "label": "SL",
+            "sortable": true
+          },
+          {
+            "field": "SW",
+            "label": "SW",
+            "sortable": true
+          },
+          {
+            "field": "SA",
+            "label": "SA",
+            "sortable": true
+          },
+          {
+            "field": "SG",
+            "label": "SG",
+            "sortable": true
+          },
+          {
+            "field": "TL",
+            "label": "TL",
+            "sortable": true
+          },
+          {
+            "field": "TW",
+            "label": "TW",
+            "sortable": true
+          },
+          {
+            "field": "TA",
+            "label": "TA",
+            "sortable": true
+          },
+          {
+            "field": "TG",
+            "label": "TG",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Tire": "Standard\nNormal",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 2,
+            "SW": 3,
+            "SA": 2,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Monster",
+            "WG": 4,
+            "AC": 2,
+            "ON": 3,
+            "OF": 7,
+            "MT": 2,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 1,
+            "TL": 0,
+            "TW": 1,
+            "TA": 0,
+            "TG": 1
+          },
+          {
+            "Tire": "Roller",
+            "WG": 0,
+            "AC": 6,
+            "ON": 0,
+            "OF": 4,
+            "MT": 6,
+            "SL": 0,
+            "SW": 3,
+            "SA": 0,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Tire": "Slim",
+            "WG": 2,
+            "AC": 2,
+            "ON": 4,
+            "OF": 1,
+            "MT": 2,
+            "SL": 3,
+            "SW": 2,
+            "SA": 4,
+            "SG": 2,
+            "TL": 4,
+            "TW": 4,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Tire": "Slick",
+            "WG": 3,
+            "AC": 1,
+            "ON": 4,
+            "OF": 0,
+            "MT": 0,
+            "SL": 4,
+            "SW": 0,
+            "SA": 4,
+            "SG": 0,
+            "TL": 2,
+            "TW": 0,
+            "TA": 2,
+            "TG": 1
+          },
+          {
+            "Tire": "Metal",
+            "WG": 4,
+            "AC": 0,
+            "ON": 1,
+            "OF": 2,
+            "MT": 0,
+            "SL": 4,
+            "SW": 3,
+            "SA": 1,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 1,
+            "TG": 0
+          },
+          {
+            "Tire": "Button",
+            "WG": 0,
+            "AC": 5,
+            "ON": 1,
+            "OF": 3,
+            "MT": 5,
+            "SL": 1,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 3,
+            "TW": 3,
+            "TA": 4,
+            "TG": 2
+          },
+          {
+            "Tire": "Off-Road",
+            "WG": 3,
+            "AC": 3,
+            "ON": 3,
+            "OF": 6,
+            "MT": 1,
+            "SL": 3,
+            "SW": 4,
+            "SA": 2,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Tire": "Sponge",
+            "WG": 1,
+            "AC": 4,
+            "ON": 2,
+            "OF": 6,
+            "MT": 4,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 4,
+            "TL": 2,
+            "TW": 1,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Tire": "Wood\nWooden",
+            "WG": 2,
+            "AC": 2,
+            "ON": 4,
+            "OF": 1,
+            "MT": 2,
+            "SL": 3,
+            "SW": 2,
+            "SA": 4,
+            "SG": 2,
+            "TL": 4,
+            "TW": 4,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Tire": "Cushion",
+            "WG": 1,
+            "AC": 4,
+            "ON": 2,
+            "OF": 6,
+            "MT": 4,
+            "SL": 1,
+            "SW": 1,
+            "SA": 1,
+            "SG": 4,
+            "TL": 2,
+            "TW": 1,
+            "TA": 2,
+            "TG": 3
+          },
+          {
+            "Tire": "Blue Standard\nNormal Blue",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 2,
+            "SW": 3,
+            "SA": 2,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Hot Monster\nFunky Monster",
+            "WG": 4,
+            "AC": 2,
+            "ON": 3,
+            "OF": 7,
+            "MT": 2,
+            "SL": 2,
+            "SW": 2,
+            "SA": 2,
+            "SG": 1,
+            "TL": 0,
+            "TW": 1,
+            "TA": 0,
+            "TG": 1
+          },
+          {
+            "Tire": "Azure Roller",
+            "WG": 0,
+            "AC": 6,
+            "ON": 0,
+            "OF": 4,
+            "MT": 6,
+            "SL": 0,
+            "SW": 3,
+            "SA": 0,
+            "SG": 3,
+            "TL": 4,
+            "TW": 4,
+            "TA": 4,
+            "TG": 4
+          },
+          {
+            "Tire": "Crimson Slim",
+            "WG": 2,
+            "AC": 2,
+            "ON": 4,
+            "OF": 1,
+            "MT": 2,
+            "SL": 3,
+            "SW": 2,
+            "SA": 4,
+            "SG": 2,
+            "TL": 4,
+            "TW": 4,
+            "TA": 3,
+            "TG": 4
+          },
+          {
+            "Tire": "Cyber Slick",
+            "WG": 3,
+            "AC": 1,
+            "ON": 4,
+            "OF": 0,
+            "MT": 0,
+            "SL": 4,
+            "SW": 0,
+            "SA": 4,
+            "SG": 0,
+            "TL": 2,
+            "TW": 0,
+            "TA": 2,
+            "TG": 1
+          },
+          {
+            "Tire": "Retro Off-Road",
+            "WG": 3,
+            "AC": 3,
+            "ON": 3,
+            "OF": 6,
+            "MT": 1,
+            "SL": 3,
+            "SW": 4,
+            "SA": 2,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Tire": "Gold Tires\nGold Wheels",
+            "WG": 4,
+            "AC": 0,
+            "ON": 1,
+            "OF": 2,
+            "MT": 0,
+            "SL": 4,
+            "SW": 3,
+            "SA": 1,
+            "SG": 2,
+            "TL": 2,
+            "TW": 2,
+            "TA": 1,
+            "TG": 0
+          },
+          {
+            "Tire": "GLA Tires\nGLA Wheels",
+            "WG": 2,
+            "AC": 4,
+            "ON": 2,
+            "OF": 5,
+            "MT": 3,
+            "SL": 2,
+            "SW": 3,
+            "SA": 2,
+            "SG": 3,
+            "TL": 3,
+            "TW": 3,
+            "TA": 3,
+            "TG": 3
+          },
+          {
+            "Tire": "Triforce Tires\nTriforce Tyres",
+            "WG": 3,
+            "AC": 3,
+            "ON": 3,
+            "OF": 6,
+            "MT": 1,
+            "SL": 3,
+            "SW": 4,
+            "SA": 2,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 2,
+            "TG": 2
+          },
+          {
+            "Tire": "Leaf Tires\nLeaf Tyres",
+            "WG": 0,
+            "AC": 5,
+            "ON": 1,
+            "OF": 3,
+            "MT": 5,
+            "SL": 1,
+            "SW": 2,
+            "SA": 2,
+            "SG": 2,
+            "TL": 3,
+            "TW": 3,
+            "TA": 4,
+            "TG": 2
+          }
+        ]
+      },
+      {
+        "id": "gliders",
+        "name": "Gliders",
+        "columns": [
+          {
+            "field": "Glider",
+            "label": "Glider",
+            "sortable": true
+          },
+          {
+            "field": "WG",
+            "label": "WG",
+            "sortable": true
+          },
+          {
+            "field": "AC",
+            "label": "AC",
+            "sortable": true
+          },
+          {
+            "field": "ON",
+            "label": "ON",
+            "sortable": true
+          },
+          {
+            "field": "OF",
+            "label": "OF",
+            "sortable": true
+          },
+          {
+            "field": "MT",
+            "label": "MT",
+            "sortable": true
+          },
+          {
+            "field": "SL",
+            "label": "SL",
+            "sortable": true
+          },
+          {
+            "field": "SW",
+            "label": "SW",
+            "sortable": true
+          },
+          {
+            "field": "SA",
+            "label": "SA",
+            "sortable": true
+          },
+          {
+            "field": "SG",
+            "label": "SG",
+            "sortable": true
+          },
+          {
+            "field": "TL",
+            "label": "TL",
+            "sortable": true
+          },
+          {
+            "field": "TW",
+            "label": "TW",
+            "sortable": true
+          },
+          {
+            "field": "TA",
+            "label": "TA",
+            "sortable": true
+          },
+          {
+            "field": "TG",
+            "label": "TG",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "Glider": "Super Glider",
+            "WG": 1,
+            "AC": 1,
+            "ON": 1,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 0,
+            "SG": 2,
+            "TL": 1,
+            "TW": 0,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Glider": "Cloud Glider",
+            "WG": 0,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 0,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 0,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Wario Wing",
+            "WG": 2,
+            "AC": 1,
+            "ON": 2,
+            "OF": 0,
+            "MT": 1,
+            "SL": 1,
+            "SW": 0,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 0,
+            "TG": 1
+          },
+          {
+            "Glider": "Waddle Wing",
+            "WG": 1,
+            "AC": 1,
+            "ON": 1,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 0,
+            "SG": 2,
+            "TL": 1,
+            "TW": 0,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Glider": "Peach Parasol",
+            "WG": 1,
+            "AC": 2,
+            "ON": 2,
+            "OF": 0,
+            "MT": 2,
+            "SL": 0,
+            "SW": 0,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 0,
+            "TG": 2
+          },
+          {
+            "Glider": "Parachute",
+            "WG": 0,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 0,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 0,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Parafoil",
+            "WG": 1,
+            "AC": 2,
+            "ON": 2,
+            "OF": 0,
+            "MT": 2,
+            "SL": 0,
+            "SW": 0,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 0,
+            "TG": 2
+          },
+          {
+            "Glider": "Flower Glider",
+            "WG": 0,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 0,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 0,
+            "TA": 1,
+            "TG": 2
+          },
+          {
+            "Glider": "Bowser Kite",
+            "WG": 1,
+            "AC": 2,
+            "ON": 2,
+            "OF": 0,
+            "MT": 2,
+            "SL": 0,
+            "SW": 0,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 0,
+            "TG": 2
+          },
+          {
+            "Glider": "Plane Glider",
+            "WG": 2,
+            "AC": 1,
+            "ON": 2,
+            "OF": 0,
+            "MT": 1,
+            "SL": 1,
+            "SW": 0,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 0,
+            "TG": 1
+          },
+          {
+            "Glider": "MKTV Parafoil",
+            "WG": 1,
+            "AC": 2,
+            "ON": 2,
+            "OF": 0,
+            "MT": 2,
+            "SL": 0,
+            "SW": 0,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 1,
+            "TA": 0,
+            "TG": 2
+          },
+          {
+            "Glider": "Gold Glider",
+            "WG": 2,
+            "AC": 1,
+            "ON": 2,
+            "OF": 0,
+            "MT": 1,
+            "SL": 1,
+            "SW": 0,
+            "SA": 1,
+            "SG": 2,
+            "TL": 1,
+            "TW": 1,
+            "TA": 0,
+            "TG": 1
+          },
+          {
+            "Glider": "Hylian Kite",
+            "WG": 1,
+            "AC": 1,
+            "ON": 1,
+            "OF": 1,
+            "MT": 1,
+            "SL": 1,
+            "SW": 1,
+            "SA": 0,
+            "SG": 2,
+            "TL": 1,
+            "TW": 0,
+            "TA": 1,
+            "TG": 1
+          },
+          {
+            "Glider": "Paper Glider",
+            "WG": 0,
+            "AC": 2,
+            "ON": 1,
+            "OF": 1,
+            "MT": 2,
+            "SL": 0,
+            "SW": 1,
+            "SA": 1,
+            "SG": 1,
+            "TL": 1,
+            "TW": 0,
+            "TA": 1,
+            "TG": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mariokarttour",
+    "name": "Tour",
+    "stats": [
+      {
+        "id": "characters",
+        "name": "Characters",
+        "columns": [
+          {
+            "field": "name",
+            "label": "Driver",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "name": "Mario"
+          },
+          {
+            "name": "Luigi"
+          },
+          {
+            "name": "Princess Peach"
+          },
+          {
+            "name": "Yoshi"
+          },
+          {
+            "name": "Bowser"
+          },
+          {
+            "name": "Donkey Kong"
+          },
+          {
+            "name": "Toad"
+          },
+          {
+            "name": "Toadette"
+          },
+          {
+            "name": "Princess Daisy"
+          },
+          {
+            "name": "Wario"
+          },
+          {
+            "name": "Waluigi"
+          },
+          {
+            "name": "Metal Mario"
+          },
+          {
+            "name": "Koopa Troopa"
+          },
+          {
+            "name": "Shy Guy"
+          },
+          {
+            "name": "Baby Mario"
+          },
+          {
+            "name": "Baby Luigi"
+          },
+          {
+            "name": "Baby Peach"
+          },
+          {
+            "name": "Baby Daisy"
+          },
+          {
+            "name": "Baby Rosalina"
+          },
+          {
+            "name": "Iggy Koopa"
+          },
+          {
+            "name": "Larry Koopa"
+          },
+          {
+            "name": "Lemmy Koopa"
+          },
+          {
+            "name": "Ludwig von Koopa"
+          },
+          {
+            "name": "roy Koopa"
+          },
+          {
+            "name": "Morton Koopa Jr"
+          },
+          {
+            "name": "Wendy O. Koopa"
+          },
+          {
+            "name": "Dry Bones"
+          },
+          {
+            "id": "rosalina",
+            "name": "Rosalina"
+          },
+          {
+            "name": "Dry Bowser"
+          },
+          {
+            "name": "King Boo"
+          },
+          {
+            "name": "Gold Mario"
+          },
+          {
+            "name": "Musician Mario"
+          },
+          {
+            "name": "Pauline"
+          }
+        ]
+      },
+      {
+        "id": "karts",
+        "name": "Karts",
+        "columns": [
+          {
+            "field": "name",
+            "label": "Body",
+            "sortable": true
+          }
+        ],
+        "data": [
+          {
+            "name": "Pipe Frame (red)"
+          },
+          {
+            "name": "Birthday Girl"
+          },
+          {
+            "name": "Bolt Buggy"
+          },
+          {
+            "name": "Soda Jet"
+          },
+          {
+            "name": "Landship"
+          },
+          {
+            "name": "Koopa Dasher"
+          },
+          {
+            "name": "Mushmellow"
+          },
+          {
+            "name": "Super Blooper"
+          },
+          {
+            "name": "Cheep Charger"
+          },
+          {
+            "name": "Zucchini"
+          },
+          {
+            "name": "Egg 1"
+          },
+          {
+            "name": "Cloud 9"
+          },
+          {
+            "name": "Koopa Clown"
+          },
+          {
+            "name": "Poltergust 4000"
+          },
+          {
+            "name": "Barrel Train"
+          },
+          {
+            "name": "Turbo Yoshi"
+          },
+          {
+            "name": "B Dasher"
+          },
+          {
+            "name": "Blue Seven"
+          },
+          {
+            "name": "Bumble V"
+          },
+          {
+            "name": "Bruiser"
+          },
+          {
+            "name": "Gold Standard"
+          }
+        ]
+      }
+    ]
+  }
+]
