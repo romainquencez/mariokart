@@ -1,12 +1,17 @@
 <template>
   <div id="app">
     <Header />
-    <b-tabs>
+    <b-tabs expanded>
       <b-tab-item
         v-for="game in games"
         :key="game.id"
-        :label="game.name"
       >
+        <template slot="header">
+          <img
+            :src="'logos/' + game.id + '.png'"
+            class="logo"
+          />
+        </template>
         <Game :game="game"></Game>
       </b-tab-item>
     </b-tabs>
@@ -32,3 +37,23 @@ export default {
   }
 }
 </script>
+
+<style>
+@media only screen and (min-width: 960px) {
+  .logo {
+    height: 64px;
+  }
+}
+
+@media only screen and (min-width: 580px) and (max-width: 960px) {
+  .logo {
+    height: 32px;
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  .logo {
+    height: 16px;
+  }
+}
+</style>
