@@ -15,11 +15,13 @@
         <Game :game="game"></Game>
       </b-tab-item>
     </b-tabs>
+    <Footer />
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue'
+import Footer from './components/Footer.vue'
 import Game from './components/Game.vue'
 
 import games from '@/assets/games.json'
@@ -28,6 +30,7 @@ export default {
   name: 'app',
   components: {
     Header,
+    Footer,
     Game
   },
   data () {
