@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Navbar />
+    <Header />
     <b-tabs>
       <b-tab-item
         v-for="game in games"
@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue'
+import Header from './components/Header.vue'
 import Game from './components/Game.vue'
 
 import games from '@/assets/games.json'
@@ -22,7 +22,7 @@ import games from '@/assets/games.json'
 export default {
   name: 'app',
   components: {
-    Navbar,
+    Header,
     Game
   },
   data () {
